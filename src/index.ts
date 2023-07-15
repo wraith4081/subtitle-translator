@@ -39,6 +39,7 @@ console.log(`This process will spend approximately ${chalk.green.bold((totalToke
 
 rl.question(`Do you want to continue? ${chalk.blue.bold('"yes/y" for yes, others for no')} => `, (answer) => {
     if (['yes', 'y'].includes(answer.toLowerCase())) {
+        progressBar.clearLines(`Do you want to continue? \n${chalk.blue.bold('"yes/y" for yes, others for no')} => `, '')
 
         const totalChunks = Math.ceil(ass.dialogues.length / ChunkSize);
 
