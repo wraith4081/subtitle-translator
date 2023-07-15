@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^20.4.2",
+    "chalk": "^4.1.2",
+    "openai": "^3.3.0"
+  }
+}

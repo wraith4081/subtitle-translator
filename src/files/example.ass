@@ -1,0 +1,498 @@
+[Script Info]
+Title: English (US)
+Original Script: kodansha  [http://www.crunchyroll.com/user/kodansha]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Top Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Flashback/Overlap,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback Italics,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback/Overlap Top,Trebuchet MS,24,&H00D9D9DB,&H000000FF,&H002E2E2F,&H78171718,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:27.92,0:00:29.92,Italics,ISAGI,0000,0000,0000,,If we win this, we go to nationals!
+Dialogue: 0,0:00:29.50,0:00:32.21,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\fscx85\blur0.3\fs20\3c&H3C030E&\pos(504.667,179.333)\frz357.7}Ichinan High School
+Dialogue: 0,0:00:29.63,0:00:32.21,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs18\3c&H3C030E&\frz357.7\pos(562.667,242.667)}2nd\NYear
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\blur0.3\an8\c&H484C44&\t(\fscx75\fscy75)\move(318.667,10,318.667,64)}National High School
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\blur0.3\an8\c&H484C44&\t(\fscx75\fscy75)\move(318.667,79.333,318.667,115.333)}Soccer Championship
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\blur0.3\an8\c&H181B18&\t(\fscx75\fscy75)\move(319.333,124.667,319.333,150.667)}Saitama Prefecture Finals
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(320.667,192.667,320.667,200.667)}Ichinan vs Matsukaze Kokuou
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\fs16\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(217.333,258.667,242.333,250.667)}Sponsors
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\fs14\shad0\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(325.333,280.667,320.333,266.667)}Saitama Soccer Organization
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\fs12\shad0\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(341.333,304.667,332.333,286.067)}Saitama High School Athletics Association
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\fs12\shad0\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(297.333,325.333,300.333,302.333)}Saitama Broadcasting
+Dialogue: 0,0:00:32.21,0:00:34.55,Default,SIGN,0000,0000,0000,,{\fad(1,400)\bord0\shad0\fs13\blur0.3\an8\fscx90\c&H181B18&\t(\fscx65\fscy75)\move(271.333,354,281.333,326)}Co-sponsors
+Dialogue: 0,0:00:34.68,0:00:35.68,Default,SIGN,0000,0000,0000,,{\bord0\shad0\fs16\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(242.999,250,248.999,248)}Sponsors
+Dialogue: 0,0:00:34.68,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\fs13\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(281.999,323.333,286.999,316.333)}Co-sponsors
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\blur0.3\an8\c&H484C44&\fscx75\fscy75\t(\fscx72\fscy72)\move(323.333,65.333,323.333,75.333)}National High School
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\blur0.3\an8\c&H484C44&\fscx75\fscy75\t(\fscx72\fscy72)\move(323.333,114.666,323.333,123.666)}Soccer Championship
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\blur0.3\an8\c&H181B18&\fscx75\fscy75\t(\fscx70\fscy70)\move(320.999,150,320.999,154)}Saitama Prefecture Finals
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(322.333,200,322.333,202)}Ichinan vs Matsukaze Kokuou
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\fs14\shad0\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(320.999,266,320.999,264)}Saitama Soccer Organization
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\fs12\shad0\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(332.999,283.5,330.999,280.5)}Saitama High School Athletics Association
+Dialogue: 0,0:00:34.93,0:00:35.68,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\fs12\shad0\blur0.3\an8\c&H181B18&\fscx65\fscy75\t(\fscx60\fscy70)\move(299.999,299.666,300.999,295.266)}Saitama Broadcasting
+Dialogue: 0,0:00:35.68,0:00:37.59,Default,SIGN LEFT,0000,0000,0000,,{\bord0\shad0\fnTimes New Roman\fs20\fay-0.242\fax-0.05\blur0.3\b0\c&H638B85&\move(166.667,149.333,210,106)}Ichinan
+Dialogue: 0,0:00:35.68,0:00:37.59,Default,SIGN RIGHT,0000,0000,0000,,{\bord0\shad0\fnTimes New Roman\fs22\fay-0.25\fax0.04\blur0.3\b0\c&H638B85&\move(372.667,113.333,418,69)}Matsukaze Kokuou
+Dialogue: 0,0:00:37.59,0:00:38.97,Default,BENCH A,0000,0000,0000,,Go, Isagi!
+Dialogue: 0,0:00:38.97,0:00:41.27,Default,BENCH B,0000,0000,0000,,This is our last chance! \NWe're counting on you!
+Dialogue: 0,0:00:41.27,0:00:43.89,Italics,ISAGI,0000,0000,0000,,Nationals... Nationals... Nationals...
+Dialogue: 0,0:00:43.89,0:00:44.98,Italics,ISAGI,0000,0000,0000,,Nationals!
+Dialogue: 0,0:00:44.98,0:00:46.48,Italics,ISAGI,0000,0000,0000,,I'm over here, loser!
+Dialogue: 0,0:00:47.90,0:00:49.86,Italics,ISAGI,0000,0000,0000,,I'm gonna score.
+Dialogue: 0,0:00:51.61,0:00:53.15,Italics,ISAGI,0000,0000,0000,,Nationals!
+Dialogue: 0,0:00:54.28,0:00:55.07,Default,TADA,0000,0000,0000,,Isagi!
+Dialogue: 0,0:00:55.07,0:00:56.49,Default,TADA,0000,0000,0000,,Over here! I'm free!
+Dialogue: 0,0:00:57.53,0:00:58.45,Italics,ISAGI,0000,0000,0000,,Tada-chan?
+Dialogue: 0,0:00:59.07,0:01:01.37,Italics,ISAGI,0000,0000,0000,,If I pass, we'll score.
+Dialogue: 0,0:01:01.37,0:01:02.29,Default,ICHINAN COACH,0000,0000,0000,,Isagi!
+Dialogue: 0,0:01:02.58,0:01:04.96,Default,ICHINAN COACH,0000,0000,0000,,Remember, it's one \Nfor all and all for one!
+Dialogue: 0,0:01:05.25,0:01:11.05,Italics,ISAGI,0000,0000,0000,,That's right. Soccer's played \Nwith eleven guys on a team.
+Dialogue: 0,0:01:12.92,0:01:15.09,Italics,ISAGI,0000,0000,0000,,All right! Now we're tiedÃ¢â‚¬â€
+Dialogue: 0,0:01:16.22,0:01:17.22,Default,ISAGI,0000,0000,0000,,No way!
+Dialogue: 0,0:01:18.47,0:01:19.39,Default,MATSU 7,0000,0000,0000,,Counter!
+Dialogue: 0,0:01:19.39,0:01:20.80,Default,MATSU 9,0000,0000,0000,,Push up!
+Dialogue: 0,0:01:26.52,0:01:28.60,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\fscx85\blur0.3\fs20\3c&H3C030E&\pos(134.667,190.667)\frz9.852}Matsukaze Kokuou High School
+Dialogue: 0,0:01:26.64,0:01:28.60,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs18\3c&H3C030E&\pos(220,220)\frz9.84}2nd\NYear
+Dialogue: 0,0:01:28.60,0:01:29.69,Default,ISAGI,0000,0000,0000,,Crap!
+Dialogue: 0,0:01:29.69,0:01:30.77,Default,DEFENSE,0000,0000,0000,,Stop them!
+Dialogue: 0,0:01:30.77,0:01:32.57,Default,OFFENSE,0000,0000,0000,,Get through!
+Dialogue: 0,0:01:37.61,0:01:40.62,Default,SIGN LEFT,0000,0000,0000,,{\bord0\shad0\fnTimes New Roman\fs20\fay-0.242\fax-0.05\blur0.3\b0\c&H638B85&\move(210,106,210,65.997)}Ichinan
+Dialogue: 0,0:01:37.61,0:01:40.62,Default,SIGN RIGHT,0000,0000,0000,,{\bord0\shad0\fnTimes New Roman\fs22\fay-0.25\fax0.04\blur0.3\b0\c&H638B85&\move(412.667,70.667,412.667,29.334)}Matsukaze Kokuou
+Dialogue: 0,0:01:46.12,0:01:47.92,Default,TADA,0000,0000,0000,,Sorry, guys!
+Dialogue: 0,0:01:48.71,0:01:52.04,Default,TADA,0000,0000,0000,,If only... If only I'd scored...
+Dialogue: 0,0:01:52.71,0:01:55.05,Default,ICHINAN 7,0000,0000,0000,,It's not your fault, Tada-chan.
+Dialogue: 0,0:01:56.09,0:01:57.26,Default,TADA,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:01:58.76,0:02:00.01,Default,KIRA FAN A,0000,0000,0000,,Kira-kun!
+Dialogue: 0,0:02:00.01,0:02:01.18,Default,KIRA FAN B,0000,0000,0000,,You're so awesome!
+Dialogue: 0,0:02:01.18,0:02:04.89,Default,INTERVIEWER,0000,0000,0000,,Kira, people call you the \Njewel of Japanese soccer.
+Dialogue: 0,0:02:04.89,0:02:08.52,Default,INTERVIEWER,0000,0000,0000,,You were even called up to \Nplay for Japan's U-18 team.
+Dialogue: 0,0:02:08.52,0:02:09.60,Default,INTERVIEWER,0000,0000,0000,,Could you tell us about that?
+Dialogue: 0,0:02:09.60,0:02:14.69,Default,KIRA,0000,0000,0000,,Well, right now, I'm focusing on \Nwinning at nationals with this team.
+Dialogue: 0,0:02:15.19,0:02:16.86,Default,KIRA,0000,0000,0000,,The one thing I can really say is...
+Dialogue: 0,0:02:17.24,0:02:22.07,Default,KIRA,0000,0000,0000,,The only reason I am who I am now \Nis because of the guys on this team.
+Dialogue: 0,0:02:22.07,0:02:24.28,Default,ALL,0000,0000,0000,,Kira-kun, you're amazing!
+Dialogue: 0,0:02:25.24,0:02:27.00,Default,ICHINAN COACH,0000,0000,0000,,You guys fought well.
+Dialogue: 0,0:02:27.00,0:02:29.21,Default,ICHINAN COACH,0000,0000,0000,,The third-years are retiring.
+Dialogue: 0,0:02:29.21,0:02:32.71,Default,ICHINAN COACH,0000,0000,0000,,You should be proud of the days \Nyou spent fighting together as a team.
+Dialogue: 0,0:02:32.71,0:02:36.55,Default,ICHINAN COACH,0000,0000,0000,,Someday, you'll look back on this loss...
+Dialogue: 0,0:02:41.14,0:02:45.89,Default,ICHINAN COACH,0000,0000,0000,,And feel like... it wasn't a waste!
+Dialogue: 0,0:02:46.39,0:02:53.27,Default,ICHINAN COACH,0000,0000,0000,,As far as I'm concerned, this Ichinan team\N is the best damn soccer team in Japan!
+Dialogue: 0,0:02:53.27,0:02:54.11,Italics,ISAGI,0000,0000,0000,,No.
+Dialogue: 0,0:02:55.15,0:02:59.74,Italics,ISAGI,0000,0000,0000,,We're a team that didn't make it to nationals\N 'cause we lost in the prefectural qualifier.
+Dialogue: 0,0:03:05.24,0:03:09.41,Italics,ISAGI,0000,0000,0000,,And I'm an unknown second-year \Nforward on that team.
+Dialogue: 0,0:03:09.41,0:03:10.96,Italics,ISAGI,0000,0000,0000,,That's the reality.
+Dialogue: 0,0:03:12.46,0:03:14.67,Italics,ISAGI,0000,0000,0000,,I'm sorry, Noa-sama.
+Dialogue: 0,0:03:16.34,0:03:18.34,Italics,ISAGI,0000,0000,0000,,I doubt I'll be able to become...
+Dialogue: 0,0:03:18.42,0:03:20.67,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\fscx85\blur0.3\fs20\3c&H3C030E&\pos(496.667,186.667)\frz359.8}Europe's Best Player
+Dialogue: 0,0:03:18.55,0:03:20.67,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs18\3c&H3C030E&\frz0.3838\pos(607.333,226.667)}France\NTeam
+Dialogue: 0,0:03:24.85,0:03:26.56,Top Italics,COMMENTATOR,0000,0000,0000,,A direct volley!
+Dialogue: 0,0:03:26.56,0:03:29.93,Top Italics,COMMENTATOR,0000,0000,0000,,What a wonder goal!
+Dialogue: 0,0:03:29.93,0:03:31.94,Italics,ISAGI,0000,0000,0000,,...a superstar like you.
+Dialogue: 0,0:03:32.35,0:03:33.73,Flashback/Overlap,ISAGI FRIEND A,0000,0000,0000,,Wow, Yocchan!
+Dialogue: 0,0:03:33.73,0:03:35.11,Flashback/Overlap,ISAGI FRIEND B,0000,0000,0000,,You're unstoppable!
+Dialogue: 0,0:03:35.11,0:03:36.82,Italics,ISAGI,0000,0000,0000,,I admired you so much.
+Dialogue: 0,0:03:36.82,0:03:38.11,Flashback/Overlap,TADA,0000,0000,0000,,Nice shot!
+Dialogue: 0,0:03:38.11,0:03:40.32,Flashback/Overlap,TEAMMATE A,0000,0000,0000,,You're way too good to be a middle schooler!
+Dialogue: 0,0:03:40.32,0:03:44.07,Italics,ISAGI,0000,0000,0000,,And continued to play soccer. But...
+Dialogue: 0,0:03:44.07,0:03:46.83,Flashback/Overlap,ICHINAN COACH,0000,0000,0000,,Remember, it's one for all and all for one!
+Dialogue: 0,0:03:46.83,0:03:48.58,Flashback/Overlap,ICHINAN COACH,0000,0000,0000,,Let's go to nationals together!
+Dialogue: 0,0:03:48.58,0:03:49.70,Flashback/Overlap,ALL,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:49.70,0:03:52.92,Italics,ISAGI,0000,0000,0000,,It looks like my dream will \Nnever be more than a dream.
+Dialogue: 0,0:03:53.46,0:03:56.67,Italics,ISAGI,0000,0000,0000,,My idiotic dream of becoming a \Nstar striker for the national team...
+Dialogue: 0,0:03:57.67,0:04:03.84,Italics,ISAGI,0000,0000,0000,,and winning the World Cup.
+Dialogue: 0,0:04:10.02,0:04:14.73,Italics,ISAGI,0000,0000,0000,,If, in that moment, I hadn't passed...
+Dialogue: 0,0:04:17.36,0:04:18.94,Italics,ISAGI,0000,0000,0000,,but taken the shot instead...
+Dialogue: 0,0:04:22.36,0:04:25.57,Italics,ISAGI,0000,0000,0000,,Would my fate have been any different?
+Dialogue: 0,0:04:30.62,0:04:35.83,Default,ISAGI,0000,0000,0000,,One for all. All for one.
+Dialogue: 0,0:04:36.79,0:04:40.50,Italics,ISAGI,0000,0000,0000,,Soccer is played with eleven guys on a team.
+Dialogue: 0,0:04:40.92,0:04:42.88,Italics,ISAGI,0000,0000,0000,,You can't do it alone.
+Dialogue: 0,0:04:52.02,0:04:53.89,Default,ISAGI,0000,0000,0000,,Damn it.
+Dialogue: 0,0:04:54.52,0:04:56.90,Default,ISAGI,0000,0000,0000,,I really wanted to win.
+Dialogue: 0,0:04:59.02,0:05:00.32,Default,ISAGI,0000,0000,0000,,I'm home.
+Dialogue: 0,0:05:01.32,0:05:04.32,Default,IYO,0000,0000,0000,,Welcome back. How did the game go?
+Dialogue: 0,0:05:04.32,0:05:07.16,Default,ISAGI,0000,0000,0000,,We lost. I'm hungry.
+Dialogue: 0,0:05:07.16,0:05:10.41,Default,IYO,0000,0000,0000,,Too bad. I even made \Npork cutlet for good luck.
+Dialogue: 0,0:05:10.41,0:05:13.95,Default,ISAGI,0000,0000,0000,,You're supposed to eat that \Nthe day {\i1}before{\i0} the game.
+Dialogue: 0,0:05:13.95,0:05:15.08,Default,ISSEI,0000,0000,0000,,Oh, is that right?
+Dialogue: 0,0:05:15.08,0:05:17.21,Default,ISSEI,0000,0000,0000,,Well, it's good. Eat up.
+Dialogue: 0,0:05:17.58,0:05:23.55,Default,IYO,0000,0000,0000,,By the way, a letter arrived for you \Nfrom the Japan Football Union.
+Dialogue: 0,0:05:23.55,0:05:24.51,Default,ISAGI,0000,0000,0000,,What?
+Dialogue: 0,0:05:25.84,0:05:28.47,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\fs10\fscx85\blur0.2\c&H545452&\pos(220.001,72.667)\frz358.8}Isagi Yoichi-sama
+Dialogue: 0,0:05:25.84,0:05:28.47,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\fs16\fscx85\blur0.2\c&H545452&\frz359.5\pos(318,112.667)}You have been selected
+Dialogue: 0,0:05:25.84,0:05:28.47,Default,SIGN,0000,0000,0000,,{\fad(300,1)\bord0\shad0\fs16\fscx85\blur0.2\c&H545452&\frz359.5\pos(322,151.333)}to become a certified athlete
+Dialogue: 0,0:05:26.38,0:05:28.47,Default,ISAGI,0000,0000,0000,,A "certified athlete"?
+Dialogue: 0,0:05:28.72,0:05:31.22,Default,IYO,0000,0000,0000,,That's a good thing, right?
+Dialogue: 0,0:05:31.22,0:05:32.64,Default,ISSEI,0000,0000,0000,,No idea!
+Dialogue: 0,0:05:34.06,0:05:36.52,Italics,ISAGI,0000,0000,0000,,Why me?
+Dialogue: 0,0:05:43.19,0:05:45.15,Italics,ISAGI,0000,0000,0000,,Is this the right place?
+Dialogue: 0,0:05:45.61,0:05:47.78,Default,KIRA,0000,0000,0000,,Oh, hey, you're from Ichinan.
+Dialogue: 0,0:05:47.78,0:05:49.74,Default,KIRA,0000,0000,0000,,Isagi-kun, right?
+Dialogue: 0,0:05:50.16,0:05:53.83,Default,KIRA,0000,0000,0000,,You were invited, too? Figures. \NGood game the other day.
+Dialogue: 0,0:05:53.83,0:05:55.58,Default,KIRA,0000,0000,0000,,Do you know who I am?
+Dialogue: 0,0:05:55.58,0:05:58.12,Default,ISAGI,0000,0000,0000,,Uh, Kira-kun...
+Dialogue: 0,0:05:58.12,0:06:01.54,Default,ISAGI,0000,0000,0000,,Y-Yes, of course. We only \Njust lost to you the other day.
+Dialogue: 0,0:06:01.54,0:06:04.67,Default,KIRA,0000,0000,0000,,I totally remember you.
+Dialogue: 0,0:06:04.96,0:06:08.84,Default,KIRA,0000,0000,0000,,You've got, like, a broad perspective\N on the game. A high soccer IQ.
+Dialogue: 0,0:06:08.84,0:06:12.55,Default,KIRA,0000,0000,0000,,If we were on the same team, \NI'd bet you'd hit some amazing passes to me.
+Dialogue: 0,0:06:12.55,0:06:14.26,Default,ISAGI,0000,0000,0000,,Uh, thank you.
+Dialogue: 0,0:06:14.26,0:06:18.02,Italics,ISAGI,0000,0000,0000,,No way. For real? \NKira Ryosuke is complimenting me?
+Dialogue: 0,0:06:18.35,0:06:22.77,Default,KIRA,0000,0000,0000,,Then, shall we? You know, I have \Nno idea what we're gonna do here.
+Dialogue: 0,0:06:22.77,0:06:23.73,Default,ISAGI,0000,0000,0000,,Neither do I.
+Dialogue: 0,0:06:24.69,0:06:28.11,Default,KIRA,0000,0000,0000,,No need to be so polite. \NWe're the same age.
+Dialogue: 0,0:06:28.11,0:06:29.70,Default,KIRA,0000,0000,0000,,Nice to meet you, Isagi-kun.
+Dialogue: 0,0:06:30.53,0:06:31.62,Default,ISAGI,0000,0000,0000,,Thanks!
+Dialogue: 0,0:06:31.62,0:06:33.74,Italics,ISAGI,0000,0000,0000,,He's so nice.
+Dialogue: 0,0:06:35.24,0:06:36.87,Default,KIRA,0000,0000,0000,,This seems like the place.
+Dialogue: 0,0:06:45.88,0:06:47.26,Default,ISAGI,0000,0000,0000,,There's a ton of guys here.
+Dialogue: 0,0:06:47.26,0:06:49.76,Default,KIRA,0000,0000,0000,,I see some guys I recognize.
+Dialogue: 0,0:06:49.76,0:06:51.97,Default,KIRA,0000,0000,0000,,Sennou's star player, Ohkawa.
+Dialogue: 0,0:06:52.26,0:06:54.76,Default,KIRA,0000,0000,0000,,The tallest high school athlete, Ishikari.
+Dialogue: 0,0:06:55.39,0:06:58.10,Default,KIRA,0000,0000,0000,,Even Nishioka, the \N"Messi of Aomori,"  is here.
+Dialogue: 0,0:06:58.10,0:07:01.56,Italics,ISAGI,0000,0000,0000,,Huh? Is everyone here a forward?
+Dialogue: 0,0:07:06.69,0:07:10.03,Default,EGO,0000,0000,0000,,Congratulations, diamonds in the rough.
+Dialogue: 0,0:07:10.78,0:07:14.03,Default,EGO,0000,0000,0000,,You are the 300 18-and-under \Nstrikers who have been chosen
+Dialogue: 0,0:07:14.03,0:07:17.33,Default,EGO,0000,0000,0000,,according to my arbitrary \Nand biased decision-making.
+Dialogue: 0,0:07:17.33,0:07:24.54,Top,EGO,0000,0000,0000,,And I am Ego Jinpachi, the man hired to\N make sure Japan wins the World Cup.
+Dialogue: 0,0:07:26.75,0:07:29.47,Italics,ISAGI,0000,0000,0000,,Huh? What'd he just say?
+Dialogue: 0,0:07:29.47,0:07:32.55,Italics,ISAGI,0000,0000,0000,,Wins... the World Cup?
+Dialogue: 0,0:07:33.64,0:07:34.72,Default,KIRA,0000,0000,0000,,Who is he?
+Dialogue: 0,0:07:35.05,0:07:36.06,Default,KIRA,0000,0000,0000,,Do you know him?
+Dialogue: 0,0:07:36.06,0:07:37.64,Default,ISAGI,0000,0000,0000,,No, no clue.
+Dialogue: 0,0:07:37.89,0:07:44.23,Default,EGO,0000,0000,0000,,Simply put, there's one thing Japanese soccer \Nneeds to become the best in the world:
+Dialogue: 0,0:07:44.23,0:07:47.32,Default,EGO,0000,0000,0000,,The birth of a revolutionary striker.
+Dialogue: 0,0:07:47.61,0:07:53.11,Default,EGO,0000,0000,0000,,I'll be performing an experiment here to turn \None of you 300 into the world's best striker.
+Dialogue: 0,0:07:53.53,0:07:55.49,Default,EGO,0000,0000,0000,,And that's what this facility is for.
+Dialogue: 0,0:07:56.24,0:07:57.95,Default,EGO,0000,0000,0000,,"Blue Lock."
+Dialogue: 0,0:07:58.49,0:08:01.54,Default,EGO,0000,0000,0000,,Starting today, you will live here together
+Dialogue: 0,0:08:01.54,0:08:05.33,Default,EGO,0000,0000,0000,,and undergo the special \Ntop training I've devised.
+Dialogue: 0,0:08:05.33,0:08:07.13,Default,EGO,0000,0000,0000,,You won't be allowed to go home,
+Dialogue: 0,0:08:07.13,0:08:10.63,Default,EGO,0000,0000,0000,,and you'll say goodbye to whatever soccer\N life you've been living up to now.
+Dialogue: 0,0:08:10.63,0:08:12.42,Default,EGO,0000,0000,0000,,But I promise you this:
+Dialogue: 0,0:08:12.42,0:08:16.76,Default,EGO,0000,0000,0000,,If you manage to survive and \Nbeat out the 299 other guys here
+Dialogue: 0,0:08:16.76,0:08:21.35,Default,EGO,0000,0000,0000,,to become the last man standing, \Nyou will be the world's greatest striker.
+Dialogue: 0,0:08:21.35,0:08:24.35,Default,EGO,0000,0000,0000,,That is all. Nice to meet you.
+Dialogue: 0,0:08:28.23,0:08:30.69,Italics,ISAGI,0000,0000,0000,,What's he talking about?
+Dialogue: 0,0:08:31.19,0:08:33.28,Default,KIRA,0000,0000,0000,,Um, excuse me.
+Dialogue: 0,0:08:33.65,0:08:36.12,Default,KIRA,0000,0000,0000,,I can't agree to the \Nconditions you just laid out.
+Dialogue: 0,0:08:36.12,0:08:38.99,Default,KIRA,0000,0000,0000,,Each of us has a team \Nthat's important to us.
+Dialogue: 0,0:08:39.24,0:08:41.70,Default,KIRA,0000,0000,0000,,Some of us have nationals coming up.
+Dialogue: 0,0:08:42.00,0:08:46.75,Default,KIRA,0000,0000,0000,,I can't abandon my team to participate \Nin some nonsensical program.
+Dialogue: 0,0:08:46.75,0:08:49.21,Default,PLAYER A,0000,0000,0000,,Yeah. I've got nationals, too.
+Dialogue: 0,0:08:49.21,0:08:52.13,Default,PLAYER B,0000,0000,0000,,Why would we suddenly\N start living together?
+Dialogue: 0,0:08:52.13,0:08:53.51,Default,PLAYER C,0000,0000,0000,,Who even are you?
+Dialogue: 0,0:08:53.51,0:08:55.47,Default,PLAYER D,0000,0000,0000,,We demand to speak to\N someone who {\i1}isn't{\i0} crazy.
+Dialogue: 0,0:08:58.43,0:09:02.14,Default,EGO,0000,0000,0000,,I see. You're all seriously ill, then.
+Dialogue: 0,0:09:03.23,0:09:04.48,Top,EGO,0000,0000,0000,,Lock off.
+Dialogue: 0,0:09:03.23,0:09:04.48,Default,SIGN,0000,0000,0000,,{\bord2.2\shad0\blur0.3\c&H000204&\fs36\3c&HFBFCFB&\pos(320,294)}Leave
+Dialogue: 0,0:09:04.48,0:09:06.69,Default,EGO,0000,0000,0000,,Anyone who wants to leave can go.
+Dialogue: 0,0:09:08.11,0:09:13.36,Default,EGO,0000,0000,0000,,Is becoming the number one high school \Nteam in this backwards country
+Dialogue: 0,0:09:13.36,0:09:16.57,Default,EGO,0000,0000,0000,,more important to you than \Nbecoming the world's best striker? Hm?
+Dialogue: 0,0:09:17.11,0:09:21.29,Default,EGO,0000,0000,0000,,Just thinking that the future of Japan \Nis in {\i1}your{\i0} hands makes me lose hope.
+Dialogue: 0,0:09:21.29,0:09:22.95,Italics,ISAGI,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:09:22.95,0:09:24.20,Default,EGO,0000,0000,0000,,Listen up.
+Dialogue: 0,0:09:24.87,0:09:27.96,Default,EGO,0000,0000,0000,,The power of Japanese soccer \Norganizations is first-rate.
+Dialogue: 0,0:09:27.96,0:09:31.38,Default,EGO,0000,0000,0000,,You could call it the result \Nof Japanese thoughtfulness.
+Dialogue: 0,0:09:31.38,0:09:34.59,Default,EGO,0000,0000,0000,,But in all other respects, \Nit is undeniably second-rate.
+Dialogue: 0,0:09:35.01,0:09:38.18,Default,EGO,0000,0000,0000,,Let me ask you this: What is soccer?
+Dialogue: 0,0:09:38.47,0:09:41.39,Default,EGO,0000,0000,0000,,Is it about eleven guys working together?
+Dialogue: 0,0:09:41.39,0:09:43.10,Default,EGO,0000,0000,0000,,Valuing your ties to others?
+Dialogue: 0,0:09:43.10,0:09:44.60,Default,EGO,0000,0000,0000,,Self-sacrifice?
+Dialogue: 0,0:09:44.60,0:09:46.14,Default,EGO,0000,0000,0000,,Playing for your teammates?
+Dialogue: 0,0:09:46.56,0:09:50.73,Default,EGO,0000,0000,0000,,This is why this country's \Nsoccer has remained weak.
+Dialogue: 0,0:09:51.86,0:09:53.32,Default,EGO,0000,0000,0000,,I'll tell you the answer.
+Dialogue: 0,0:09:53.32,0:09:59.45,Default,EGO,0000,0000,0000,,Soccer is about scoring more \Ngoals than your opponent.
+Dialogue: 0,0:09:59.45,0:10:02.62,Default,EGO,0000,0000,0000,,Whoever scores the most \Ngoals is the greatest.
+Dialogue: 0,0:10:02.62,0:10:05.91,Top,EGO,0000,0000,0000,,If you just want to play friendly games \Nwith your buddies, then lock off.
+Dialogue: 0,0:10:04.54,0:10:05.54,Default,SIGN,0000,0000,0000,,{\bord2.2\shad0\blur0.3\c&H000204&\fs36\3c&HFBFCFB&\pos(320,294)}Leave
+Dialogue: 0,0:10:07.25,0:10:11.13,Italics,ISAGI,0000,0000,0000,,What's with this guy? He's crazy.
+Dialogue: 0,0:10:11.63,0:10:14.34,Default,KIRA,0000,0000,0000,,That's a terrible thing to say. \NTake it back.
+Dialogue: 0,0:10:14.63,0:10:18.59,Default,KIRA,0000,0000,0000,,There are many athletes on the\N Japanese team who I respect.
+Dialogue: 0,0:10:18.59,0:10:22.93,Default,KIRA,0000,0000,0000,,We grew up watching them \Nfight together as an eleven.
+Dialogue: 0,0:10:22.93,0:10:25.27,Default,KIRA,0000,0000,0000,,They are my superstars.
+Dialogue: 0,0:10:25.27,0:10:27.52,Default,KIRA,0000,0000,0000,,You're wrong.
+Dialogue: 0,0:10:29.40,0:10:31.90,Default,EGO,0000,0000,0000,,What? The Japanese team?
+Dialogue: 0,0:10:34.98,0:10:38.53,Default,EGO,0000,0000,0000,,But they've never won \Nthe World Cup, have they?
+Dialogue: 0,0:10:38.53,0:10:41.78,Default,EGO,0000,0000,0000,,I'm talking about becoming \Nthe best in the world.
+Dialogue: 0,0:10:43.49,0:10:46.33,Default,EGO,0000,0000,0000,,"Instead of assisting \Nmy teammates to win 1-0,"
+Dialogue: 0,0:10:46.33,0:10:50.92,Default,EGO,0000,0000,0000,,"it feels better to pull off\Na hat trick and lose 3-4."
+Dialogue: 0,0:10:52.08,0:10:56.71,Default,EGO,0000,0000,0000,,These are the words of the world's \Ngreatest striker, Noel Noa,
+Dialogue: 0,0:10:56.71,0:11:00.76,Default,EGO,0000,0000,0000,,who beat Messi and Cristiano Ronaldo \Nto win the Ballon d'Or.
+Dialogue: 0,0:11:01.59,0:11:06.72,Default,EGO,0000,0000,0000,,Eric Cantona said, "I don't care about \Nmy team. I just want to stand out."
+Dialogue: 0,0:11:07.18,0:11:12.98,Default,EGO,0000,0000,0000,,PelÃƒÂ© said, "The world's best forward, \Nmidfielder, defender, and goalkeeper."
+Dialogue: 0,0:11:12.98,0:11:16.32,Default,EGO,0000,0000,0000,,"Whichever you ask about, \Nthe answer is still me."
+Dialogue: 0,0:11:17.74,0:11:20.03,Default,EGO,0000,0000,0000,,Well? Awful, right?
+Dialogue: 0,0:11:20.03,0:11:22.36,Default,EGO,0000,0000,0000,,But they're all top, top players!
+Dialogue: 0,0:11:22.36,0:11:25.99,Default,EGO,0000,0000,0000,,And they're all extraordinary egoists!
+Dialogue: 0,0:11:25.99,0:11:29.54,Default,EGO,0000,0000,0000,,That's what Japanese soccer lacks.
+Dialogue: 0,0:11:30.37,0:11:35.75,Default,EGO,0000,0000,0000,,You can't become the world's best striker \Nunless you're the world's biggest egoist.
+Dialogue: 0,0:11:38.01,0:11:39.72,Italics,ISAGI,0000,0000,0000,,The things this man is saying...
+Dialogue: 0,0:11:39.72,0:11:44.09,Default,EGO,0000,0000,0000,,I want to create that kind of person here.
+Dialogue: 0,0:11:44.64,0:11:46.51,Italics,ISAGI,0000,0000,0000,,...are probably wrong.
+Dialogue: 0,0:11:47.89,0:11:51.56,Default,EGO,0000,0000,0000,,Someone who will stand on 299 corpses.
+Dialogue: 0,0:11:52.31,0:11:54.81,Default,EGO,0000,0000,0000,,A solitary hero.
+Dialogue: 0,0:11:56.69,0:12:00.32,Italics,ISAGI,0000,0000,0000,,I can't do it. After all, \NI haven't achieved anything.
+Dialogue: 0,0:12:00.32,0:12:03.66,Default,EGO,0000,0000,0000,,Just imagine it. \NYou're in the World Cup final.
+Dialogue: 0,0:12:03.95,0:12:07.66,Default,EGO,0000,0000,0000,,Eighty thousand people in the stands. \NYou're standing on the field.
+Dialogue: 0,0:12:07.66,0:12:09.33,Default,EGO,0000,0000,0000,,The score is 0-0.
+Dialogue: 0,0:12:09.33,0:12:11.08,Default,EGO,0000,0000,0000,,It's the second half of extra time.
+Dialogue: 0,0:12:11.08,0:12:14.71,Default,EGO,0000,0000,0000,,It's the last play. With a pass from your \Nteammate, you're through the defense.
+Dialogue: 0,0:12:14.71,0:12:16.71,Default,EGO,0000,0000,0000,,It's you against the goalkeeper.
+Dialogue: 0,0:12:16.71,0:12:18.88,Default,EGO,0000,0000,0000,,Six meters to your right is your teammate.
+Dialogue: 0,0:12:18.88,0:12:22.26,Default,EGO,0000,0000,0000,,If you pass, you're \Nguaranteed to score a goal.
+Dialogue: 0,0:12:22.26,0:12:25.89,Default,EGO,0000,0000,0000,,In a moment when the entire nation's hopes \Nand the championship are riding on you,
+Dialogue: 0,0:12:26.89,0:12:31.52,Default,EGO,0000,0000,0000,,only an insane egoist can take \Nthat shot without hesitation.
+Dialogue: 0,0:12:33.48,0:12:35.65,Default,EGO,0000,0000,0000,,Pass through these doors.
+Dialogue: 0,0:12:38.98,0:12:40.78,Default,EGO,0000,0000,0000,,Abandon all common sense.
+Dialogue: 0,0:12:40.78,0:12:43.36,Default,EGO,0000,0000,0000,,On the field, you're the star.
+Dialogue: 0,0:12:45.86,0:12:49.24,Italics,ISAGI,0000,0000,0000,,Nobody ever taught me any of this.
+Dialogue: 0,0:12:49.24,0:12:52.08,Default,EGO,0000,0000,0000,,Nothing should bring you more\N joy than your own goals.
+Dialogue: 0,0:12:52.08,0:12:54.62,Default,EGO,0000,0000,0000,,Live only for that moment.
+Dialogue: 0,0:12:56.92,0:13:00.00,Default,EGO,0000,0000,0000,,Isn't that what it means to be a striker?
+Dialogue: 0,0:13:04.01,0:13:06.93,Italics,ISAGI,0000,0000,0000,,I am a striker!
+Dialogue: 0,0:13:08.97,0:13:10.56,Default,KIRA,0000,0000,0000,,Isagi-kun?
+Dialogue: 0,0:13:10.56,0:13:12.52,Default,PLAYER C,0000,0000,0000,,I'll play your dumb game, shithead!
+Dialogue: 0,0:13:13.06,0:13:14.10,Default,PLAYER E,0000,0000,0000,,Me, too!
+Dialogue: 0,0:13:27.57,0:13:29.03,Default,EGO,0000,0000,0000,,Shall we begin?
+Dialogue: 0,0:13:31.08,0:13:37.58,Default,EGO,0000,0000,0000,,Nowhere in the world is the soccer \Nmore intense than it is at Blue Lock.
+Dialogue: 0,0:13:48.89,0:13:52.64,Italics,ISAGI,0000,0000,0000,,I'm 299Z, so I guess I'm in Room Z.
+Dialogue: 0,0:13:53.47,0:13:55.14,Default,ISAGI,0000,0000,0000,,Oh, here it is.
+Dialogue: 0,0:14:05.57,0:14:06.99,Default,KIRA,0000,0000,0000,,Isagi-kun.
+Dialogue: 0,0:14:06.99,0:14:10.24,Default,KIRA,0000,0000,0000,,I'm so glad I'm sharing a room \Nwith someone I know.
+Dialogue: 0,0:14:10.24,0:14:11.70,Default,ISAGI,0000,0000,0000,,Kira-kun.
+Dialogue: 0,0:14:12.62,0:14:14.04,Default,ISAGI,0000,0000,0000,,I'm relieved, too.
+Dialogue: 0,0:14:14.75,0:14:15.66,Default,KUNIGAMI,0000,0000,0000,,Oh, my bad.
+Dialogue: 0,0:14:17.12,0:14:18.58,Default,KUNIGAMI,0000,0000,0000,,Threw my clothes too hard.
+Dialogue: 0,0:14:19.29,0:14:22.09,Default,ISAGI,0000,0000,0000,,It's totally fine. Here.
+Dialogue: 0,0:14:22.09,0:14:23.34,Default,KUNIGAMIM,0000,0000,0000,,Watch where you're walking.
+Dialogue: 0,0:14:23.34,0:14:23.96,Default,ISAGI,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:26.88,0:14:29.30,Default,BACHIRA,0000,0000,0000,,Hey, Zico. Pass.
+Dialogue: 0,0:14:29.30,0:14:31.39,Default,BACHIRA,0000,0000,0000,,Pass the ball, Zico.
+Dialogue: 0,0:14:31.80,0:14:33.85,Italics,ISAGI,0000,0000,0000,,What the heck's he dreaming about?
+Dialogue: 0,0:14:36.73,0:14:39.40,Default,IGARASHI,0000,0000,0000,,Are you {\i1}the{\i0} Kira Ryosuke?
+Dialogue: 0,0:14:39.40,0:14:41.31,Default,IGARASHI,0000,0000,0000,,Wow, it's really you.
+Dialogue: 0,0:14:41.31,0:14:43.02,Default,KIRA,0000,0000,0000,,Uh, thanks.
+Dialogue: 0,0:14:43.86,0:14:45.23,Default,IGARASHI,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:14:45.23,0:14:47.95,Top,IGARASHI,0000,0000,0000,,My name's Igarashi Gurimu.
+Dialogue: 0,0:14:45.94,0:14:47.99,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs18\3c&H3C030E&\pos(230.667,254)\frz0.3469}2nd\NYear
+Dialogue: 0,0:14:47.95,0:14:49.70,Default,KIRA,0000,0000,0000,,Oh, nice to meet you.
+Dialogue: 0,0:14:49.70,0:14:54.20,Default,IGARASHI,0000,0000,0000,,My family runs a temple, but I really don't \Nwant to take over the family business.
+Dialogue: 0,0:14:54.20,0:14:57.04,Default,IGARASHI,0000,0000,0000,,So when I heard all that earlier, \NI couldn't stop shaking.
+Dialogue: 0,0:14:57.04,0:15:00.17,Default,IGARASHI,0000,0000,0000,,I felt like this is my chance \Nto change my life.
+Dialogue: 0,0:15:01.17,0:15:04.71,Default,EGO,0000,0000,0000,,Have you finished changing, \Ndiamonds in the rough?
+Dialogue: 0,0:15:06.17,0:15:07.76,Default,EGO,0000,0000,0000,,Hello, there.
+Dialogue: 0,0:15:07.76,0:15:11.26,Default,EGO,0000,0000,0000,,The guys you're sharing your rooms \Nwith are both your roommates
+Dialogue: 0,0:15:11.26,0:15:13.35,Default,EGO,0000,0000,0000,,and rivals who will help you improve.
+Dialogue: 0,0:15:13.97,0:15:16.68,Default,EGO,0000,0000,0000,,Your abilities have been \Nquantified and ranked by me
+Dialogue: 0,0:15:16.68,0:15:19.56,Default,EGO,0000,0000,0000,,according to my arbitrary \Nand biased decision-making.
+Dialogue: 0,0:15:19.56,0:15:21.94,Default,EGO,0000,0000,0000,,That's what the numbers \Non your uniforms represent.
+Dialogue: 0,0:15:22.27,0:15:26.28,Default,EGO,0000,0000,0000,,You can tell at a glance \Nwhat your rank out of 300 is.
+Dialogue: 0,0:15:26.78,0:15:30.74,Italics,ISAGI,0000,0000,0000,,Wait, 299th? Crap, I'm so low.
+Dialogue: 0,0:15:30.74,0:15:35.58,Default,EGO,0000,0000,0000,,Your rank can change based on the\N results of your training or matches.
+Dialogue: 0,0:15:35.58,0:15:39.12,Default,EGO,0000,0000,0000,,And the top five players will \Nunconditionally get to play
+Dialogue: 0,0:15:39.12,0:15:41.46,Default,EGO,0000,0000,0000,,in the tournament being \Nheld six months from now.
+Dialogue: 0,0:15:41.46,0:15:45.92,Default,EGO,0000,0000,0000,,They'll be registered as forwards \Nfor the U-20 World Cup.
+Dialogue: 0,0:15:46.67,0:15:50.13,Italics,ISAGI,0000,0000,0000,,The U-20 Japanese team?
+Dialogue: 0,0:15:50.13,0:15:55.26,Default,EGO,0000,0000,0000,,Additionally, anyone \Nwho loses at Blue Lock...
+Dialogue: 0,0:15:57.26,0:16:01.31,Default,EGO,0000,0000,0000,,...will never get to play for Japan.
+Dialogue: 0,0:16:01.31,0:16:02.14,Italics,ISAGI,0000,0000,0000,,What?
+Dialogue: 0,0:16:04.19,0:16:07.65,Default,EGO,0000,0000,0000,,What you need to gain here is ego.
+Dialogue: 0,0:16:07.65,0:16:10.36,Default,EGO,0000,0000,0000,,I'll be testing you now to measure that.
+Dialogue: 0,0:16:10.36,0:16:13.57,Default,EGO,0000,0000,0000,,So it's time to play tag.
+Dialogue: 0,0:16:13.86,0:16:16.45,Default,EGO,0000,0000,0000,,You have 136 seconds.
+Dialogue: 0,0:16:16.45,0:16:18.58,Default,EGO,0000,0000,0000,,Whoever's struck by the ball is "it."
+Dialogue: 0,0:16:18.58,0:16:22.62,Default,EGO,0000,0000,0000,,Whoever's "it" the moment time \Nruns out will be locked off.
+Dialogue: 0,0:16:22.62,0:16:24.04,Default,ISAGI,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:16:24.04,0:16:26.63,Default,EGO,0000,0000,0000,,Also, no using your hands.
+Dialogue: 0,0:16:28.75,0:16:29.59,Default,IGARASHI,0000,0000,0000,,What?
+Dialogue: 0,0:16:30.42,0:16:32.88,Default,RAICHI,0000,0000,0000,,What? This isn't soccer.
+Dialogue: 0,0:16:32.88,0:16:35.84,Default,IGARASHI,0000,0000,0000,,I'm "it" first because I'm ranked the lowest?
+Dialogue: 0,0:16:36.68,0:16:38.47,Default,IGARASHI,0000,0000,0000,,Fine, let's do this.
+Dialogue: 0,0:16:38.47,0:16:40.10,Default,IGARASHI,0000,0000,0000,,No hard feelings.
+Dialogue: 0,0:16:40.10,0:16:43.60,Default,NARUHAYA,0000,0000,0000,,Hey, wait. You actually \Nbelieve what he said?
+Dialogue: 0,0:16:43.60,0:16:45.44,Default,IGARASHI,0000,0000,0000,,What if he was for real?
+Dialogue: 0,0:16:47.44,0:16:48.82,Default,IGARASHI,0000,0000,0000,,I'm doing this.
+Dialogue: 0,0:16:48.82,0:16:51.40,Default,IGARASHI,0000,0000,0000,,If I lose, I'll be a temple monk\N for the rest of my life.
+Dialogue: 0,0:16:53.15,0:16:57.24,Italics,ISAGI,0000,0000,0000,,Anyone who loses here will \Nnever be able to play for Japan.
+Dialogue: 0,0:17:02.50,0:17:04.08,Default,NARUHAYA,0000,0000,0000,,Hey, stay away from me!
+Dialogue: 0,0:17:04.08,0:17:05.58,Default,IGARASHI,0000,0000,0000,,Sorry, Isagi-kun!
+Dialogue: 0,0:17:05.58,0:17:06.13,Default,ISAGI,0000,0000,0000,,What?
+Dialogue: 0,0:17:06.13,0:17:07.25,Default,IGARASHI,0000,0000,0000,,Namusan!
+Dialogue: 0,0:17:08.88,0:17:09.67,Default,IGARASHI,0000,0000,0000,,Crap!
+Dialogue: 0,0:17:10.80,0:17:12.67,Default,KIRA,0000,0000,0000,,This is ridiculous.
+Dialogue: 0,0:17:12.67,0:17:16.22,Default,KIRA,0000,0000,0000,,I'm here so I can prove him wrong.
+Dialogue: 0,0:17:17.05,0:17:18.55,Default,RAICHI,0000,0000,0000,,Don't screw with me!
+Dialogue: 0,0:17:18.55,0:17:20.89,Default,KIRA,0000,0000,0000,,This is definitely wrong.
+Dialogue: 0,0:17:20.89,0:17:23.27,Default,KIRA,0000,0000,0000,,I won't let him ruin my future.
+Dialogue: 0,0:17:23.27,0:17:26.48,Default,IGARASHI,0000,0000,0000,,Damn it. I can't hit anyone.
+Dialogue: 0,0:17:30.11,0:17:32.99,Default,IGARASHI,0000,0000,0000,,He's still asleep. Gotcha!
+Dialogue: 0,0:17:39.03,0:17:41.91,Default,IGARASHI,0000,0000,0000,,Hey, that's a foul.
+Dialogue: 0,0:17:41.91,0:17:44.41,Default,IGARASHI,0000,0000,0000,,If this were a game, that'd be a red card.
+Dialogue: 0,0:17:43.66,0:17:46.71,Top,BACHIYA,0000,0000,0000,,Only handballs are against the rules, right?
+Dialogue: 0,0:17:47.33,0:17:48.63,Default,BACHIYA,0000,0000,0000,,Morning.
+Dialogue: 0,0:17:48.63,0:17:50.46,Italics,ISAGI,0000,0000,0000,,What's with this guy?
+Dialogue: 0,0:17:51.21,0:17:54.21,Default,KUNIGAMI,0000,0000,0000,,Hey, I'm not a fan of dirty play.
+Dialogue: 0,0:17:54.21,0:17:56.26,Default,KUNIGAMI,0000,0000,0000,,Play fair.
+Dialogue: 0,0:17:56.26,0:17:58.22,Default,BACHIYA,0000,0000,0000,,Mr. Strait-Laced, huh?
+Dialogue: 0,0:18:02.68,0:18:04.89,Default,IGARASHI,0000,0000,0000,,You left yourself open. Namusan.
+Dialogue: 0,0:18:06.77,0:18:08.06,Default,KUNIGAMI,0000,0000,0000,,Bastard.
+Dialogue: 0,0:18:08.52,0:18:10.27,Default,KUNIGAMI,0000,0000,0000,,I'll destroy you.
+Dialogue: 0,0:18:10.52,0:18:11.15,Default,IGARASHI,0000,0000,0000,,Here!
+Dialogue: 0,0:18:11.15,0:18:12.02,Default,ISAGI,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:12.73,0:18:14.86,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\fscx85\blur0.3\fs20\3c&H3C030E&\frz19.63\pos(104,186.666)}BL Ranking
+Dialogue: 0,0:18:12.86,0:18:14.86,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs22\3c&H3C030E&\frz18.93\pos(162.667,212)}st
+Dialogue: 0,0:18:14.86,0:18:15.53,Default,ISAGI,0000,0000,0000,,Don't...
+Dialogue: 0,0:18:19.91,0:18:20.62,Default,IGARASHI,0000,0000,0000,,Namusan.
+Dialogue: 0,0:18:20.62,0:18:21.45,Default,KIRA,0000,0000,0000,,Isagi-kun?
+Dialogue: 0,0:18:21.45,0:18:24.16,Default,KUNIGAMI,0000,0000,0000,,Oh, sorry. Wrong person.
+Dialogue: 0,0:18:28.54,0:18:29.54,Italics,ISAGI,0000,0000,0000,,Crap.
+Dialogue: 0,0:18:29.92,0:18:35.21,Italics,ISAGI,0000,0000,0000,,If I don't hit someone, my soccer \Ncareer will be over in one minute.
+Dialogue: 0,0:18:36.01,0:18:39.64,Italics,ISAGI,0000,0000,0000,,I don't want things to end here.
+Dialogue: 0,0:18:41.35,0:18:42.30,Default,KUON,0000,0000,0000,,Safe!
+Dialogue: 0,0:18:42.30,0:18:44.14,Italics,ISAGI,0000,0000,0000,,They're so athletic.
+Dialogue: 0,0:18:44.14,0:18:46.48,Italics,ISAGI,0000,0000,0000,,I'll have to aim carefully \Nif I want to hit anyone.
+Dialogue: 0,0:18:46.98,0:18:49.90,Italics,ISAGI,0000,0000,0000,,I should go after someone \Nranked lower than me.
+Dialogue: 0,0:18:50.40,0:18:53.73,Default,IGARASHI,0000,0000,0000,,Can't catch me!
+Dialogue: 0,0:18:54.61,0:18:57.78,Italics,ISAGI,0000,0000,0000,,Is my fate really going to \Nbe decided by this game?
+Dialogue: 0,0:19:01.24,0:19:03.45,Italics,ISAGI,0000,0000,0000,,Crap, this is really bad.
+Dialogue: 0,0:19:03.45,0:19:06.91,Italics,ISAGI,0000,0000,0000,,No. I don't want to lose. \NI don't want things to end.
+Dialogue: 0,0:19:07.54,0:19:10.17,Italics,ISAGI,0000,0000,0000,,I'll do anything. I just want to win.
+Dialogue: 0,0:19:10.42,0:19:13.50,Italics,ISAGI,0000,0000,0000,,I want to keep playing soccer!
+Dialogue: 0,0:19:13.50,0:19:16.38,Italics,ISAGI,0000,0000,0000,,I don't want my dream to end!
+Dialogue: 0,0:19:17.76,0:19:21.14,Default,KUNIGAMI,0000,0000,0000,,You little shit! Get off of me!
+Dialogue: 0,0:19:19.59,0:19:21.14,Flashback/Overlap,BACHIYA,0000,0000,0000,,Here's your chance.
+Dialogue: 0,0:19:21.14,0:19:22.59,Default,KUNIGAMI,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:19:22.59,0:19:24.30,Default,IGARASHI,0000,0000,0000,,Get him! Over there!
+Dialogue: 0,0:19:24.30,0:19:28.23,Default,KUNIGAMI,0000,0000,0000,,I said play fair!
+Dialogue: 0,0:19:29.98,0:19:30.89,Default,BACHIYA,0000,0000,0000,,Ow.
+Dialogue: 0,0:19:30.89,0:19:32.31,Default,IGARASHI,0000,0000,0000,,Get off me!
+Dialogue: 0,0:19:34.94,0:19:37.90,Default,IGARASHI,0000,0000,0000,,Oh, shit. Wait, timeout.
+Dialogue: 0,0:19:39.82,0:19:41.28,Default,KIRA,0000,0000,0000,,Isagi-kun, hit him!
+Dialogue: 0,0:19:41.28,0:19:42.41,Default,KIRA,0000,0000,0000,,Before it's too late!
+Dialogue: 0,0:19:45.20,0:19:48.87,Default,IGARASHI,0000,0000,0000,,Hey, wait. Stay back. Stay away from me.
+Dialogue: 0,0:19:48.87,0:19:51.58,Default,IGARASHI,0000,0000,0000,,I don't want this to end here.
+Dialogue: 0,0:19:52.46,0:19:55.21,Italics,ISAGI,0000,0000,0000,,I can win. I can survive.
+Dialogue: 0,0:19:55.79,0:19:57.88,Top,IGARASHI,0000,0000,0000,,Please... Don't do it.
+Dialogue: 0,0:19:56.25,0:19:59.47,Italics,ISAGI,0000,0000,0000,,But this guy's soccer career would end.
+Dialogue: 0,0:20:01.34,0:20:05.43,Italics,ISAGI,0000,0000,0000,,No, I have to do it. \NThat's how things work here.
+Dialogue: 0,0:20:06.10,0:20:09.39,Italics,ISAGI,0000,0000,0000,,If there are winners, \Nthere must also be losers.
+Dialogue: 0,0:20:10.31,0:20:15.90,Italics,ISAGI,0000,0000,0000,,Making my dream come true \Nmeans ending someone else's.
+Dialogue: 0,0:20:27.79,0:20:28.66,Default,IGARASHI,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:30.29,0:20:31.62,Default,ISAGI,0000,0000,0000,,That's not right.
+Dialogue: 0,0:20:35.33,0:20:38.67,Default,ISAGI,0000,0000,0000,,If I don't change, \NI'll still be the same person.
+Dialogue: 0,0:20:39.46,0:20:41.72,Default,ISAGI,0000,0000,0000,,I came here to change my life.
+Dialogue: 0,0:20:41.72,0:20:44.47,Default,ISAGI,0000,0000,0000,,I came here to become \Nthe best in the world.
+Dialogue: 0,0:20:45.47,0:20:49.68,Italics,ISAGI,0000,0000,0000,,Unless I beat someone stronger\N than me, nothing will change!
+Dialogue: 0,0:20:49.68,0:20:50.98,Default,BACHIYA,0000,0000,0000,,I like you.
+Dialogue: 0,0:20:53.39,0:20:55.35,Default,BACHIYA,0000,0000,0000,,You're right. If you're \Ngonna beat someone...
+Dialogue: 0,0:20:57.40,0:20:59.61,Top,BACHIYA,0000,0000,0000,,...it should be the strongest one here.
+Dialogue: 0,0:20:57.48,0:20:59.61,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\fscx85\blur0.3\fs20\3c&H3C030E&\pos(484,169.333)\frz0.1421}BL Ranking
+Dialogue: 0,0:20:57.61,0:20:59.61,Default,SIGN,0000,0000,0000,,{\fad(155,1)\fnImpact\shad0\fsp1\bord2.5\blur0.3\fs22\3c&H3C030E&\frz1.066\pos(548.667,223.333)}th
+Dialogue: 0,0:20:59.61,0:21:00.57,Default,ISAGI,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:03.70,0:21:04.66,Default,KIRA,0000,0000,0000,,Me?
+Dialogue: 0,0:21:14.96,0:21:16.54,Italics,EGO,0000,0000,0000,,Someone once said:
+Dialogue: 0,0:21:17.50,0:21:19.75,Italics,EGO,0000,0000,0000,,"In the world of soccer,"
+Dialogue: 0,0:21:19.75,0:21:24.93,Italics,EGO,0000,0000,0000,,"you can train first-rate goalkeepers, \Ndefenders, and midfielders,"
+Dialogue: 0,0:21:24.93,0:21:27.85,Italics,EGO,0000,0000,0000,,"but strikers are different."
+Dialogue: 0,0:21:29.39,0:21:36.44,Italics,EGO,0000,0000,0000,,"A first-rate striker will find \Nwhere the soccer is most intense..."
+Dialogue: 0,0:21:36.85,0:21:39.73,Default,ISAGI,0000,0000,0000,,The strongest guy...
+Dialogue: 0,0:21:39.73,0:21:40.73,Default,BACHIYA,0000,0000,0000,,Boom!
+Dialogue: 0,0:21:48.99,0:21:52.08,Italics,EGO,0000,0000,0000,,"and suddenly appear there."
+Dialogue: 0,0:21:55.54,0:21:59.00,Default,SIGN,0000,0000,0000,,{\fad(950,1)\fnImpact\shad0\an8\bord3\fs16\3c&H91440F&\t(\fscx120\fscy120)\move(320,125,320,116)}Episode 1
+Dialogue: 0,0:21:55.87,0:21:59.00,Default,SIGN,0000,0000,0000,,{\fad(950,1)\fnImpact\shad0\an8\bord0\fs32\3c&H91440F&\t(\fscx120\fscy120)\move(318.667,222.667,318.667,227.667)\c&H12140D&}Dream
+Dialogue: 0,0:23:29.55,0:23:30.22,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\fs34\c&HBF5803&\frz168.1\move(146,135,146,250)\t(0,520,\frz360)\t(520,665,\fscy50)}A
+Dialogue: 0,0:23:29.88,0:23:32.62,Default,ISAGI,0000,0000,0000,,Blue Lock: Additional Time!
+Dialogue: 0,0:23:30.22,0:23:30.38,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\an1\fsp8\fs34\c&HBF5803&\move(138,250,138,215)\fscy50\t(\fscy100)\t(61,62,\alpha&HFF&)\t(103,104,\alpha&H00&)}A{\c&HEE891D&\alpha&HFF&\t(145,146,\alpha&H00&)}dd{\c&HC55003&\alpha&HFF&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me!
+Dialogue: 0,0:23:30.38,0:23:30.59,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\an1\fsp8\shad0\fs34\c&HBF5803&\move(138,215,138,230)\fscy100\t(\fscy50)}A{\c&HEE891D&}dd{\c&HC55003&\alpha&HFF&\t(27,28,\alpha&H00&)}i{\c&HEE891D&\alpha&HFF&\t(68,69,\alpha&H00&)}ti{\c&HC55003&\alpha&HFF&\t(110,111,\alpha&H00&)}o{\c&HEE891D&\alpha&HFF&\t(152,153,\alpha&H00&)}na{\c&HC55003&\alpha&HFF&\t(193,194,\alpha&H00&)}l{\alpha&HFF&} T{\c&HEE891D&}i{\c&HC55003&}me!
+Dialogue: 0,0:23:30.59,0:23:30.80,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\an1\fsp8\shad0\fs34\c&HBF5803&\move(138,230,138,220)\fscy50\t(\fscy100)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&\alpha&HFF&\t(67,68,\alpha&H00&)}i{\c&HC55003&\alpha&HFF&\t(108,109,\alpha&H00&)}m{\alpha&HFF&\t(150,151,\alpha&H00&)}e{\alpha&HFF&}!
+Dialogue: 0,0:23:30.80,0:23:31.01,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\an1\fsp8\shad0\fs34\c&HBF5803&\move(138,220,138,235)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me{\alpha&HFF&)}!
+Dialogue: 0,0:23:31.01,0:23:31.84,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\fs34\an1\fsp8\c&HBF5803&\pos(137.5,233.5)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me{\alpha&HFF&\t(0,151,\alpha&H00&)}!
+Dialogue: 0,0:23:31.84,0:23:32.05,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\fs34\an1\fsp8\c&HBF5803&\move(137.5,233.5,102,270)\t(\fsp14)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me!
+Dialogue: 0,0:23:31.88,0:23:31.93,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\pos(324,115)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:31.88,0:23:31.93,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\pos(260.667,116)}Blue Lock
+Dialogue: 0,0:23:31.93,0:23:31.97,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\pos(324,137)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:31.93,0:23:31.97,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\pos(260.667,138)}Blue Lock
+Dialogue: 0,0:23:31.97,0:23:32.01,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\pos(324,145)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:31.97,0:23:32.01,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\pos(260.667,146)}Blue Lock
+Dialogue: 0,0:23:32.01,0:23:32.05,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\pos(324,147)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.01,0:23:32.05,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\pos(260.667,148)}Blue Lock
+Dialogue: 0,0:23:32.05,0:23:32.26,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\move(324,150,324,134)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.05,0:23:32.26,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\move(260.667,151,260.667,135)}Blue Lock
+Dialogue: 0,0:23:32.05,0:23:32.26,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\fs34\an1\fsp14\c&HBF5803&\move(102,270,142,255)\t(\fsp9)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me!
+Dialogue: 0,0:23:32.26,0:23:33.01,Default,SIGN,0000,0000,0000,,{\p1\bord0\shad0\blur0.3\fscy15\fscx267\pos(324,134)\c&HF44823&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:23:32.26,0:23:33.01,Default,SIGN,0000,0000,0000,,{\an1\fsp7\fs16\bord0\shad0\b1\blur0.3\fnArial\pos(260.667,135)}Blue Lock
+Dialogue: 0,0:23:32.26,0:23:33.01,Default,SIGN,0000,0000,0000,,{\bord0\blur0.3\shad0\fs34\an1\fsp9\c&HBF5803&\pos(142,255)}A{\c&HEE891D&}dd{\c&HC55003&}i{\c&HEE891D&}ti{\c&HC55003&}o{\c&HEE891D&}na{\c&HC55003&}l T{\c&HEE891D&}i{\c&HC55003&}me!
+Dialogue: 0,0:23:33.01,0:23:35.99,Default,SIGN,0000,0000,0000,,{\fad(500,500)\bord2.2\shad0\b1\i1\fs22\fscx95\blur1\pos(163.333,305.334)\c&HA44C0F&\3c&HFEFDF9&}Isagi Yoichi's Dream
+Dialogue: 0,0:23:33.01,0:23:35.99,Default,SIGN,0000,0000,0000,,{\fad(500,500)\bord0\shad0\b1\i1\fs22\fscx95\blur0.3\pos(163.333,305.334)\c&HA44C0F&}Isagi Yoichi's Dream
+Dialogue: 0,0:23:33.66,0:23:38.06,Top,ISSEI,0000,0000,0000,,Your mom and I don't \Nknow much about soccer,
+Dialogue: 0,0:23:36.85,0:23:41.35,Default,SIGN,0000,0000,0000,,{\fad(190,1)\fnImpact\shad0\fsp1\bord7\fscx85\blur0.3\fs34\3c&HF04820&\c&HF2471A&\pos(133.333,162)}Isagi Issei
+Dialogue: 0,0:23:36.85,0:23:41.35,Default,SIGN,0000,0000,0000,,{\fad(190,1)\fnImpact\shad0\fsp1\bord3.5\fscx85\blur0.3\fs34\3c&HFEFBFD&\c&HF2471A&\pos(133.333,162)}Isagi Issei
+Dialogue: 0,0:23:38.06,0:23:41.35,Top,ISSEI,0000,0000,0000,,but it's impressive that you \Ngot chosen by the JFU, Yoichi.
+Dialogue: 0,0:23:41.35,0:23:48.32,Default,SIGN,0000,0000,0000,,{\fnImpact\shad0\fsp1\bord7\fscx85\blur0.3\fs34\3c&HF04820&\c&HF2471A&\pos(520,158)}Isagi Iyo
+Dialogue: 0,0:23:41.35,0:23:48.32,Default,SIGN,0000,0000,0000,,{\fnImpact\shad0\fsp1\bord3.5\fscx85\blur0.3\fs34\3c&HFEFBFD&\c&HF2471A&\pos(520,158)}Isagi Iyo
+Dialogue: 0,0:23:41.63,0:23:48.32,Default,IYO,0000,0000,0000,,Isn't it just? But then, you've always been \Ngood at soccer, ever since you were little.
+Dialogue: 0,0:23:48.32,0:23:48.44,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(248,249.333)}Munch
+Dialogue: 0,0:23:48.32,0:23:48.44,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(398,236)}Munch
+Dialogue: 0,0:23:48.36,0:23:52.49,Default,SIGN,0000,0000,0000,,{\fad(190,1)\fnImpact\shad0\fsp1\bord6\fscx85\blur0.3\fs28\3c&H4DFEAE&\c&H14FD91&\pos(321.333,58)}Isagi Yoichi
+Dialogue: 0,0:23:48.36,0:23:52.49,Default,SIGN,0000,0000,0000,,{\fad(190,1)\fnImpact\shad0\fsp1\bord3\fscx85\blur0.3\fs28\3c&HFAFAFB&\c&H14FD91&\pos(321.333,58)}Isagi Yoichi
+Dialogue: 0,0:23:48.44,0:23:48.57,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz7.088\pos(248.667,252)}Munch
+Dialogue: 0,0:23:48.44,0:23:48.57,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz344.6\pos(403.334,236.667)}Munch
+Dialogue: 0,0:23:48.57,0:23:48.69,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\pos(253.333,246)\frz358.3}Munch
+Dialogue: 0,0:23:48.57,0:23:48.69,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\frz358.3\pos(396,222.667)}Munch
+Dialogue: 0,0:23:48.69,0:23:48.82,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(245.333,256.667)\frz0.6747}Munch
+Dialogue: 0,0:23:48.69,0:23:48.82,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(398.666,235.334)\frz350.5}Munch
+Dialogue: 0,0:23:48.82,0:23:48.90,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(248,249.333)}Munch
+Dialogue: 0,0:23:48.82,0:23:48.90,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(398,236)}Munch
+Dialogue: 0,0:23:48.87,0:23:49.64,Default,ISAGI,0000,0000,0000,,Yeah.
+Dialogue: 0,0:23:48.90,0:23:49.03,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz7.088\pos(248.667,252)}Munch
+Dialogue: 0,0:23:48.90,0:23:49.03,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz344.6\pos(403.334,236.667)}Munch
+Dialogue: 0,0:23:49.03,0:23:49.15,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\pos(253.333,246)\frz358.3}Munch
+Dialogue: 0,0:23:49.03,0:23:49.15,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\frz358.3\pos(396,222.667)}Munch
+Dialogue: 0,0:23:49.15,0:23:49.24,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(245.333,256.667)\frz0.6747}Munch
+Dialogue: 0,0:23:49.15,0:23:49.24,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(398.666,235.334)\frz350.5}Munch
+Dialogue: 0,0:23:49.24,0:23:49.36,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(248,249.333)}Munch
+Dialogue: 0,0:23:49.24,0:23:49.36,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(398,236)}Munch
+Dialogue: 0,0:23:49.36,0:23:49.49,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz7.088\pos(248.667,252)}Munch
+Dialogue: 0,0:23:49.36,0:23:49.49,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz344.6\pos(403.334,236.667)}Munch
+Dialogue: 0,0:23:49.49,0:23:49.61,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\pos(253.333,246)\frz358.3}Munch
+Dialogue: 0,0:23:49.49,0:23:49.61,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\frz358.3\pos(396,222.667)}Munch
+Dialogue: 0,0:23:49.61,0:23:49.69,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(245.333,256.667)\frz0.6747}Munch
+Dialogue: 0,0:23:49.61,0:23:49.69,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(398.666,235.334)\frz350.5}Munch
+Dialogue: 0,0:23:49.69,0:23:49.82,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(248,249.333)}Munch
+Dialogue: 0,0:23:49.69,0:23:49.82,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs18\b0\c&H455250&\pos(398,236)}Munch
+Dialogue: 0,0:23:49.82,0:23:49.94,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz7.088\pos(248.667,252)}Munch
+Dialogue: 0,0:23:49.82,0:23:49.95,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs17\b0\c&H455250&\frz344.6\pos(403.334,236.667)}Munch
+Dialogue: 0,0:23:49.94,0:23:50.07,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\pos(253.333,246)\frz358.3}Munch
+Dialogue: 0,0:23:49.95,0:23:50.07,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs19\b0\c&H455250&\frz358.3\pos(396,222.667)}Munch
+Dialogue: 0,0:23:50.07,0:23:50.11,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(245.333,256.667)\frz0.6747}Munch
+Dialogue: 0,0:23:50.07,0:23:50.11,Default,SIGN (black),0000,0000,0000,,{\bord0\shad0\blur0.3\fscx90\fs15\b0\c&H455250&\pos(398.666,235.334)\frz350.5}Munch
+Dialogue: 0,0:23:51.24,0:23:52.49,Default,ISAGI,0000,0000,0000,,I guess.
+Dialogue: 0,0:23:52.49,0:23:58.19,Default,IYO,0000,0000,0000,,You even asked Santa Claus for \Nthe World Cup trophy for Christmas,
+Dialogue: 0,0:23:58.19,0:24:02.50,Default,IYO,0000,0000,0000,,and you've always dreamed of \Nbecoming the world's greatest striker.
+Dialogue: 0,0:24:02.79,0:24:05.60,Default,ISAGI,0000,0000,0000,,You can stop now. It's embarrassing.
+Dialogue: 0,0:24:05.60,0:24:10.18,Default,IYO/I,0000,0000,0000,,You were glued to the TV \Nwhenever a soccer game was on.
+Dialogue: 0,0:24:10.18,0:24:13.14,Default,IYO/I,0000,0000,0000,,And you'd cry your eyes out \Nif we switched the channel.
+Dialogue: 0,0:24:13.65,0:24:15.65,Flashback/Overlap,ISSEI,0000,0000,0000,,I want to check the news.
+Dialogue: 0,0:24:15.65,0:24:18.22,Flashback/Overlap,ISAGI,0000,0000,0000,,No!
+Dialogue: 0,0:24:18.22,0:24:22.79,Default,IYO/I,0000,0000,0000,,Yup, that's how it was. When you\N stopped crying, you'd fall asleep,
+Dialogue: 0,0:24:22.79,0:24:25.48,Default,IYO/I,0000,0000,0000,,and when you woke up, \Nyou didn't remember a thing.
+Dialogue: 0,0:24:25.88,0:24:30.19,Default,IYO/I,0000,0000,0000,,And you used to forget to do\Nyour homework all the time.
+Dialogue: 0,0:24:30.19,0:24:33.28,Default,IYO/I,0000,0000,0000,,That's why his grades\Nweren't very good, right?
+Dialogue: 0,0:24:33.28,0:24:37.35,Default,ISSEI,0000,0000,0000,,Yup, you were {\i1}very{\i0} lucky\N you got picked, Yoichi.
+Dialogue: 0,0:24:37.35,0:24:38.35,Default,IYO,0000,0000,0000,,Isn't he just?
+Dialogue: 0,0:24:38.35,0:24:41.85,Default,ISAGI,0000,0000,0000,,Wait, were you dissing me at the end there?
