@@ -9,7 +9,7 @@ const openai = new OpenAIApi(configuration);
 
 export default async function translateChunk(input: string[], reRun: boolean = false) {
     const chatCompletion = await openai.createChatCompletion({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4",
         messages: [
             {
                 role: 'system',
